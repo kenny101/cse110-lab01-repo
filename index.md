@@ -6,32 +6,21 @@
 </p>
 
 ## Favorite Animes:
- <div class="row">
-  <div class="column">
-    <img src="images/anime00.jpg" alt="attack on titan" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/arakawa.jpg" alt="awakawa under the bridge" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/jjk.jpg" alt="jujutsu kaisen" style="width:100%">
-  </div>
-    <div class="column">
-    <img src="images/deathparade.jpg" alt="death parade" style="width:100%">
-  </div>
-</div>
+<p align="center">
+  <img width="500" height="350" src="images/anime00.jpg">
+</p>
+<p align="center">
+  <img width="500" height="350" src="images/arakawa.jpg">
+</p>
+<p align="center">
+  <img width="500" height="350" src="images/jjk.jpg">
+</p>
+<p align="center">
+  <img width="500" height="350" src="images/deathparade.jpg">
+</p>
 
-<style> 
-.row {
-  display: flex;
-}
 
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-</br>
+
 
 ## Most recent Programming Project that I've worked on:
 
