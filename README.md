@@ -1,2 +1,2 @@
 # Kenny's User Page
-Python is good. 
+Python is my favorite programming language. 
