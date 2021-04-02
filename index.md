@@ -1,4 +1,6 @@
 # Kenny's User Page
+##### Note to grader: Contents Section links are not working with github pages for some reason, works on [the markdown url](https://github.com/kenny101/cse110-lab01-repo/blob/main/index.md) though.
+
 ## Contents
  1. [Favorite Programming Language](#Favorite-Programming-Language) 
 
