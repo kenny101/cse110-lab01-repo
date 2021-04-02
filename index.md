@@ -1,4 +1,9 @@
 # Kenny's User Page
+## Contents
+ 1. [Favorite Programming Language](#Favorite-Programming-Language) 
+ 2. [Favorite Anime](#Some-of-my-Favorite-Anime) 
+ 3. [Programming Projects](#Most-recent-Programming-Project-that-I've-worked-on:) 
+ 4. [Video games](#Some-Games-I've-played-recently)
 
 ## Favorite Programming Language:
 ![python logo](/images/python_logo.png)
@@ -14,10 +19,10 @@ _Why Python?_
 
 ## Some of my Favorite Anime:
 
-- **Attack on Titan**
-- **Steins Gate**
-- **Jujutsu Kaisen**
-- **Arakawa Under The Bridge**
+1. **Attack on Titan**
+2. **Steins Gate**
+3. **Jujutsu Kaisen**
+4. **Arakawa Under The Bridge**
 
 ![image of my favorite anime](/images/fav_anime.jpg)
 
