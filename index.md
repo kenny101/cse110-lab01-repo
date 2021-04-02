@@ -39,6 +39,7 @@ _Why Python?_
 
 
 ## Some Games I've played recently:
+
 - [] **Resident Evil 2**
 
 - [x] **The Walking Dead**
