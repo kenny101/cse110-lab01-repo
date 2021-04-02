@@ -1,5 +1,6 @@
-# Kenny's User Page
+<div align="center">
 
+# Kenny's User Page
 ## Favorite Programming Language:
 <p align="center">
   <img width="100" height="100" src="images/python_logo.png">
@@ -38,9 +39,12 @@ _Why Python?_
 
 
 ## Some Games I've played recently:
-- [ ] **Resident Evil 2**
-- [ ] **The Walking Dead**
-- [ ] **Little Nightmares: Secrets of the Maw**
+[ ] **Resident Evil 2**
+
+[ ] **The Walking Dead**
+
+[ ] **Little Nightmares: Secrets of the Maw**
 <p align="center">
   <img width="500" height="300" src="images/fav_games.jpg">
 </p>
+</div>
