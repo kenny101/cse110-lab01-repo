@@ -39,11 +39,11 @@ _Why Python?_
 
 
 ## Some Games I've played recently:
-[ ] **Resident Evil 2**
+- [] **Resident Evil 2**
 
-[ ] **The Walking Dead**
+- [x] **The Walking Dead**
 
-[ ] **Little Nightmares: Secrets of the Maw**
+- [ ] **Little Nightmares: Secrets of the Maw**
 <p align="center">
   <img width="500" height="300" src="images/fav_games.jpg">
 </p>
