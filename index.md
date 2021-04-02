@@ -1,12 +1,12 @@
 # Kenny's User Page
 ## Contents
  1. [Favorite Programming Language](#Favorite-Programming-Language) 
- 
+
  2. [Favorite Anime](#Some-of-my-Favorite-Anime)
 
- 3. [Programming Projects](#Most-recent-Programming-Project-that-I've-worked-on)
+ 3. [Programming Project](#Recent-Programming-Project)
 
- 4. [Video games](#Some-Games-I've-played-recently)
+ 4. [Video games](#Games-played-recently)
 
 ## Favorite Programming Language:
 ![python logo](/images/python_logo.png)
@@ -30,14 +30,14 @@ _Why Python?_
 ![image of my favorite anime](/images/fav_anime.jpg)
 
 
-## Most recent Programming Project that I've worked on:
+## Recent Programming Project:
 
 - Reddibot is a discord bot that fetches images from your favorite subreddits
 
 > Click [here](https://www.reddibot.me/) to add Reddibot to your Discord server!
 
 ![reddibot preview](/images/reddibot.jpg)
-## Some Games I've played recently:
+## Games played recently:
 
 - [ ] **Resident Evil 2**
 
