@@ -1,6 +1,7 @@
+# Kenny's User Page
+
 <div align="center">
 
-# Kenny's User Page
 ## Favorite Programming Language:
 <p align="center">
   <img width="100" height="100" src="images/python_logo.png">
