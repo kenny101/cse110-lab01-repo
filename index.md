@@ -1,6 +1,5 @@
 # Kenny's User Page
 
-<div align="center">
 
 ## Favorite Programming Language:
 <p align="center">
@@ -49,4 +48,3 @@ _Why Python?_
 <p align="center">
   <img width="500" height="300" src="images/fav_games.jpg">
 </p>
-</div>
