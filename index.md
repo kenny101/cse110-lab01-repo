@@ -1,8 +1,11 @@
 # Kenny's User Page
 ## Contents
  1. [Favorite Programming Language](#Favorite-Programming-Language) 
- 2. [Favorite Anime](#Some-of-my-Favorite-Anime) 
- 3. [Programming Projects](#Most-recent-Programming-Project-that-I've-worked-on:) 
+ 
+ 2. [Favorite Anime](#Some-of-my-Favorite-Anime)
+
+ 3. [Programming Projects](#Most-recent-Programming-Project-that-I've-worked-on)
+
  4. [Video games](#Some-Games-I've-played-recently)
 
 ## Favorite Programming Language:
