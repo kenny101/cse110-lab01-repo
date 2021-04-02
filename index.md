@@ -1,17 +1,9 @@
-<div align="center">
-
 # Kenny's User Page
 
 ## Favorite Programming Language:
-
-<p align="center">
-  <img width="100" height="100" src="images/python_logo.png">
-</p>
-</br>
+![python logo](images/python_logo.png)
 
 `print('Python is really easy to use and is very versatile')`
-
-</br>
 
 _Why Python?_
 
@@ -27,9 +19,8 @@ _Why Python?_
 - **Jujutsu Kaisen**
 - **Arakawa Under The Bridge**
 
-<p align="center">
-  <img width="500" height="350" src="images/fav_anime.jpg">
-</p>
+![image of my favorite anime](images/fav_anime.jpg)
+
 
 ## Most recent Programming Project that I've worked on:
 
@@ -37,10 +28,7 @@ _Why Python?_
 
 > Click [here](https://www.reddibot.me/) to add Reddibot to your Discord server!
 
-<p align="center">
-  <img width="500" height="350" src="images/reddibot.jpg">
-</p>
-
+![reddibot preview](images/reddibot.jpg)
 ## Some Games I've played recently:
 
 - [ ] **Resident Evil 2**
@@ -48,7 +36,6 @@ _Why Python?_
 - [x] **The Walking Dead**
 
 - [ ] **Little Nightmares: Secrets of the Maw**
-<p align="center">
-  <img width="500" height="300" src="images/fav_games.jpg">
-</p>
-</div>
+
+
+![my favorite games](images/fav_games.jpg)
